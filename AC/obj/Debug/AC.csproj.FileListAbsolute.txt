@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.Form1.resources
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\bin\Debug\AC.exe.config
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\bin\Debug\AC.exe
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\bin\Debug\AC.pdb
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\bin\Debug\Memory.dll
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\bin\Debug\Memory.xml
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.csproj.CopyComplete
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.exe
+C:\Users\Eduardo\Desktop\Programação\Projetojuroscompostos\AC\AC\obj\Debug\AC.pdb
